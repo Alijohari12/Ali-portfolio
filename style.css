@@ -130,6 +130,9 @@ a {
     color: white;
 
 }
+.nav{
+    position:sticky;
+    top:0;
 
 .menu i {
     color: white;
